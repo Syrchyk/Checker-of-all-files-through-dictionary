@@ -1,0 +1,205 @@
+
+C:\$RECYCLE.BIN\S-1-5-21-2242212443-460323661-3383801814-1002\$RDIZC5T\dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\id_ID\README_id.txt
+39513
+4
+-------------------------------------------
+
+C:\Users\Syrchyk\Pictures\python\dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Users\Syrchyk\AppData\Roaming\Zoom\data\WebviewCacheX64\yyusy3rorgcb2gb71owiyq\EBWebView\ZxcvbnData\3.0.0.0\female_names.txt
+30420
+1
+-------------------------------------------
+
+C:\Users\Syrchyk\Desktop\New Text Document.txt
+14
+3
+-------------------------------------------
+
+C:\Users\Syrchyk\Desktop\New folder\New Text Document.txt
+23
+4
+-------------------------------------------
+
+C:\Users\Syrchyk\Desktop\New folder\Test.txt
+9
+2
+-------------------------------------------
+
+C:\Users\Syrchyk\Desktop\New folder\Test\Test.txt
+11
+2
+-------------------------------------------
+
+C:\Users\Syrchyk\Desktop\New folder\Test\New folder\New Text Document.txt
+42
+7
+-------------------------------------------
+
+C:\Users\Syrchyk\AppData\Local\Google\Chrome\User Data\ZxcvbnData\3\female_names.txt
+26708
+1
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\public\steambootstrapper_indonesian.txt
+4278
+1
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\public\steamui_czech.txt
+368426
+3
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\friends\trackerui_indonesian.txt
+52373
+12
+-------------------------------------------
+
+C:\Users\Syrchyk\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.0.0.0\female_names.txt
+30420
+1
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\public\steamui_indonesian.txt
+343174
+75
+-------------------------------------------
+
+C:\Users\Syrchyk\AppData\Local\Microsoft\VisualStudio\17.0_1ca57f70\Designer\Cache\18722745x86DD\Checked Files\dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2_dlc2\resource\subtitles_czech.txt
+1803906
+6
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\resource\subtitles_czech.txt
+1668468
+3
+-------------------------------------------
+
+C:\$RECYCLE.BIN\S-1-5-21-2242212443-460323661-3383801814-1002\$RDIZC5T\dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\id_ID\README_id.txt
+39513
+4
+-------------------------------------------
+
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\bin\Debug\Checked Files\11dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\bin\Debug\Checked Files\1dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\bin\Debug\Checked Files\dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Users\Syrchyk\AppData\Roaming\Zoom\data\WebviewCacheX64\yyusy3rorgcb2gb71owiyq\EBWebView\ZxcvbnData\3.0.0.0\female_names.txt
+30420
+1
+-------------------------------------------
+
+C:\Users\Syrchyk\Desktop\New Text Document.txt
+14
+3
+-------------------------------------------
+
+C:\Users\Syrchyk\Desktop\New folder\New Text Document.txt
+23
+4
+-------------------------------------------
+
+C:\Users\Syrchyk\Desktop\New folder\Test.txt
+9
+2
+-------------------------------------------
+
+C:\Users\Syrchyk\Desktop\New folder\Test\Test.txt
+11
+2
+-------------------------------------------
+
+C:\Users\Syrchyk\Desktop\New folder\Test\New folder\New Text Document.txt
+42
+7
+-------------------------------------------
+
+C:\Users\Syrchyk\Pictures\python\dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\public\steambootstrapper_indonesian.txt
+4278
+1
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\friends\trackerui_indonesian.txt
+52373
+12
+-------------------------------------------
+
+C:\Users\Syrchyk\AppData\Local\Google\Chrome\User Data\ZxcvbnData\3\female_names.txt
+26708
+1
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\public\steamui_czech.txt
+368426
+3
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\public\steamui_indonesian.txt
+343174
+75
+-------------------------------------------
+
+C:\Users\Syrchyk\AppData\Local\Microsoft\Edge\User Data\ZxcvbnData\3.0.0.0\female_names.txt
+30420
+1
+-------------------------------------------
+
+C:\Users\Syrchyk\AppData\Local\Microsoft\VisualStudio\17.0_1ca57f70\Designer\Cache\18722745x86DD\Checked Files\11dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Users\Syrchyk\AppData\Local\Microsoft\VisualStudio\17.0_1ca57f70\Designer\Cache\18722745x86DD\Checked Files\1dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Users\Syrchyk\AppData\Local\Microsoft\VisualStudio\17.0_1ca57f70\Designer\Cache\18722745x86DD\Checked Files\dictionary.txt
+3206087
+1
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2_dlc2\resource\subtitles_czech.txt
+1803906
+6
+-------------------------------------------
+
+C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\resource\subtitles_czech.txt
+1668468
+3
+-------------------------------------------

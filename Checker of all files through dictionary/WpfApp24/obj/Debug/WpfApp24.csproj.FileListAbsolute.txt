@@ -1,0 +1,15 @@
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\bin\Debug\WpfApp24.exe.config
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\bin\Debug\WpfApp24.exe
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\bin\Debug\WpfApp24.pdb
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\WpfApp24.csproj.AssemblyReference.cache
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\MainWindow.g.cs
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\App.g.cs
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\WpfApp24_MarkupCompile.cache
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\WpfApp24_MarkupCompile.lref
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\MainWindow.baml
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\WpfApp24.g.resources
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\WpfApp24.Properties.Resources.resources
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\WpfApp24.csproj.GenerateResource.cache
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\WpfApp24.csproj.CoreCompileInputs.cache
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\WpfApp24.exe
+C:\Users\Syrchyk\source\repos\WpfApp24\WpfApp24\obj\Debug\WpfApp24.pdb
